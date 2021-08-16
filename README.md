@@ -29,4 +29,4 @@ My Data science Portfolio which contains some of my projects
 6. After this i preprocessed the labels and drop the irrelevent labels e.g creation date, phone number etc.
 7. Accuracy of each company is about 90%
 8. Model can be used by Real Estate companies.
-![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
+![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/1e1adf1edacac28cce568d725d1e14b405f1be24/keras.png)
