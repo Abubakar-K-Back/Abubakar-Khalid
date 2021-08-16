@@ -9,7 +9,7 @@ My Data science Portfolio which contains some of my projects
 5. Model can be used by health insurance companies and other organizations
 ![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/57b8929e4755a2525a0eaf7c11d53bc91bd87e0c/Anomaly.png)
 
-# [Stock Market Index Prediction Using Auto Arima Models (Time Series Analysis)](https://github.com/abubakar123SVD/Auto-Arima-Stock-Prediction)
+# [Stock Market Index Prediction Using Auto Arima Models.](https://github.com/abubakar123SVD/Auto-Arima-Stock-Prediction)
 1. In this project i have predicted opening prices of Pakistan Stock Exchange
 2. Dataset was contained by Kaggle
 3. I proprocessed the data and removed the irrelevent data, dates, weekends and anomalies from data from the csv
@@ -20,7 +20,7 @@ My Data science Portfolio which contains some of my projects
 ![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
 
 
-# [House Price Prediction Using Google tensorflow)](https://github.com/abubakar123SVD/House-Price-prediction-)
+# [House Price Prediction Using Google tensorflow](https://github.com/abubakar123SVD/House-Price-prediction-)
 1. In this project i have used google tensorflow
 2. Dataset was contained by Kaggle
 3. first data has been visualised and analysed
