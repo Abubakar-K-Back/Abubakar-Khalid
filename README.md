@@ -17,3 +17,4 @@ My Data science Portfolio which contains some of my projects
 5. Average accuracy of each company is about 87%
 7. project can be seen through a website made up in reactjs deployed through heroku
 8. Model can be used by financial institutes, banks, investment brokers and bitcoin tradings
+![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
