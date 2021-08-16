@@ -15,6 +15,18 @@ My Data science Portfolio which contains some of my projects
 3. I proprocessed the data and removed the irrelevent data, dates, weekends and anomalies from data from the csv
 4. I have used Auto regressive integrated moving average to predict the trend
 5. Average accuracy of each company is about 87%
-7. project can be seen through a website made up in reactjs deployed through heroku
+7. project can be seen through a website made up in reactjs deployed through heroku http://autoarima.herokuapp.com/Login
 8. Model can be used by financial institutes, banks, investment brokers and bitcoin tradings
+![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
+
+
+# [House Price Prediction Using Google tensorflow)](https://github.com/abubakar123SVD/House-Price-prediction-)
+1. In this project i have used google tensorflow
+2. Dataset was contained by Kaggle
+3. first data has been visualised and analysed
+4. Used Keras Sequential layers.
+5. I have selected right labels to train the price e.g rooms, parking lot, area etc
+6. After this i preprocessed the labels and drop the irrelevent labels e.g creation date, phone number etc.
+7. Accuracy of each company is about 90%
+8. Model can be used by Real Estate companies.
 ![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
