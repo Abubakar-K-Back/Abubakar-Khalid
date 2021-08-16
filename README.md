@@ -1,7 +1,7 @@
 # Abubakar-Data-Science-Portfolio
 My Data science Portfolio which contains some of my projects
 
-# {Anomaly detection in Synthea Dataset Using Luminaire.}
+# [Anomaly detection in Synthea Dataset Using Luminaire.]
 1. In this project i have detected Anomalies in synthea patient dataset
 2. Dataset was contained by https://github.com/synthetichealth/synthea/wiki/CSV-File-Data-Dictionary#claims-transactions
 3. I proprocessed the data and removed the irrelevent data from the csv
