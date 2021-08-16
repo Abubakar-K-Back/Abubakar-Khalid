@@ -7,6 +7,7 @@ My Data science Portfolio which contains some of my projects
 3. I proprocessed the data and removed the irrelevent data from the csv
 4. Final result is a prediction about the patients spending on health each year
 5. Model can be used by health insurance companies and other organizations
+![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/57b8929e4755a2525a0eaf7c11d53bc91bd87e0c/Anomaly.png)
 
 # [Stock Market Index Prediction Using Auto Arima Models (Time Series Analysis)](https://github.com/abubakar123SVD/Auto-Arima-Stock-Prediction)
 1. In this project i have predicted opening prices of Pakistan Stock Exchange
