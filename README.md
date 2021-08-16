@@ -14,5 +14,5 @@ My Data science Portfolio which contains some of my projects
 3. I proprocessed the data and removed the irrelevent data, dates, weekends and anomalies from data from the csv
 4. I have used Auto regressive integrated moving average to predict the trend
 5. Average accuracy of each company is about 87%
-7. project can be seen through a website made up in reactjs 
+7. project can be seen through a website made up in reactjs deployed through heroku
 8. Model can be used by financial institutes, banks, investment brokers and bitcoin tradings
