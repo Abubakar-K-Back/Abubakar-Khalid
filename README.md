@@ -7,7 +7,7 @@ My Data science Portfolio which contains some of my projects
 3. I proprocessed the data and removed the irrelevent data from the csv
 4. Final result is a prediction about the patients spending on health each year
 5. Model can be used by health insurance companies and other organizations
-![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/57b8929e4755a2525a0eaf7c11d53bc91bd87e0c/Anomaly.png)
+![](/Anomaly.png)
 
 # [Stock Market Index Prediction Using Auto Arima Models.](https://github.com/abubakar123SVD/Auto-Arima-Stock-Prediction)
 1. In this project i have predicted opening prices of Pakistan Stock Exchange
@@ -17,7 +17,7 @@ My Data science Portfolio which contains some of my projects
 5. Average accuracy of each company is about 87%
 7. project can be seen through a website made up in reactjs deployed through heroku http://autoarima.herokuapp.com/Login
 8. Model can be used by financial institutes, banks, investment brokers and bitcoin tradings
-![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/c4e92e0c629cb712e95f6ba19314600301606dd1/hbl.png)
+![](/hbl.png)
 
 
 # [House Price Prediction Using Google tensorflow](https://github.com/abubakar123SVD/House-Price-prediction-)
@@ -29,4 +29,4 @@ My Data science Portfolio which contains some of my projects
 6. After this i preprocessed the labels and drop the irrelevent labels e.g creation date, phone number etc.
 7. Accuracy of each company is about 90%
 8. Model can be used by Real Estate companies.
-![](https://github.com/abubakar123SVD/Abubakar-Data-Science-Portfolio/blob/1e1adf1edacac28cce568d725d1e14b405f1be24/keras.png)
+![](/keras.png)
