@@ -30,3 +30,17 @@ My Data science Portfolio which contains some of my projects
 7. Accuracy of each company is about 90%
 8. Model can be used by Real Estate companies.
 ![](/keras.png)
+
+
+
+# [Heart Attack Classification using KNN, SVM, RFC, NBC ](https://github.com/abubakar123SVD/Heart-Attack-Prediction-Machine-Learning)
+1. In this project i have used classification algorithms
+2. Dataset was contained by Kaggle
+3. First data has been visualized using seaborn and matplotlib
+4. In visualization we can see the relationship of factors with heart attack in patients
+5. I have used KNN, Support Vector Machines, Random Forest, Naive Bayes Classifier
+6. then match the accuracy of each model
+7. Support vector machine gives the best accuracy
+8. Model can be used by Health insurance Companies, Hospitals, and other health organizations.
+![](/health.png)
+
