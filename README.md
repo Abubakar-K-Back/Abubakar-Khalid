@@ -1,5 +1,5 @@
 # Abubakar Khalid
-Data Science Enthusiast | Machine Learning Engineer | Backend Developer
+Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 
 # [Anomaly detection in Synthea Dataset Using Luminaire.](https://github.com/abubakar123SVD/anomaly-detection-using-luminaire)
 1. In this project i have detected Anomalies in synthea patient dataset
