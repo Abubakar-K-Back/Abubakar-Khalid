@@ -1,7 +1,20 @@
 # Abubakar Khalid
-Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
+Go | Python | NodeJS | AWS | GCP | Backend Developer
 
-# [Image Analyser Using AWS Rekognition, FastAPI and ReactJS](https://github.com/abubakar123SVD/Image-Analyser-AWS.git)
+# [Point Of Sales API V1](https://github.com/Abubakar-K-Back/Go-Point-Of-Sale-API.git)
+1. Backend is fully on Golang
+2. MySQL integrated
+3. GORM used as 
+4. Docker Image created for container deployment
+5. Overview of Microservices Architecture
+6. JWT for User Authentication
+
+## How to Run:
+1. clone the repo
+2. use postman for testing
+3. run `go run .`
+
+# [Image Analyser Using AWS Rekognition, FastAPI and ReactJS](https://github.com/Abubakar-K-Back/Image-Analyser-AWS.git)
 1. I have created a Backend Using Python FastAPI
 2. For Image Rekognition I have used AWS Rekognition
 3. Front-End Developed in ReactJS
@@ -21,7 +34,7 @@ Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 ![](4.png)
 
 
-# [Anomaly detection in Synthea Dataset Using Luminaire.](https://github.com/abubakar123SVD/anomaly-detection-using-luminaire)
+# [Anomaly detection in Synthea Dataset Using Luminaire.](https://github.com/Abubakar-K-Back/anomaly-detection-using-luminaire)
 1. In this project i have detected Anomalies in synthea patient dataset
 2. Dataset was contained by https://github.com/synthetichealth/synthea/wiki/CSV-File-Data-Dictionary#claims-transactions
 3. I proprocessed the data and removed the irrelevent data from the csv
@@ -29,7 +42,7 @@ Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 5. Model can be used by health insurance companies and other organizations
 ![](/Anomaly.png)
 
-# [Car Price Prediction](https://github.com/abubakar123SVD/Honda-Civic-Price-Prediction)
+# [Car Price Prediction](https://github.com/Abubakar-K-Back/Honda-Civic-Price-Prediction)
 1. In this project scrape cars data from Pakwheels.com using selenium scraping
 2. Total rows in dataset were 4600
 3. Preprocessed using Pandas and removed the irrelevent data from the csv
@@ -40,7 +53,7 @@ Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 ![](/imgs.png)
 
 
-# [Stock Market Index Prediction Using Auto Arima Models.](https://github.com/abubakar123SVD/Auto-Arima-Stock-Prediction)
+# [Stock Market Index Prediction Using Auto Arima Models.](https://github.com/Abubakar-K-Back/Auto-Arima-Stock-Prediction)
 1. In this project i have predicted opening prices of Pakistan Stock Exchange
 2. Dataset was contained by Kaggle
 3. I proprocessed the data and removed the irrelevent data, dates, weekends and anomalies from data from the csv
@@ -51,7 +64,7 @@ Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 ![](/hbl.png)
 
 
-# [House Price Prediction Using Google tensorflow](https://github.com/abubakar123SVD/House-Price-prediction-)
+# [House Price Prediction Using Google tensorflow](https://github.com/Abubakar-K-Back/House-Price-prediction-)
 1. In this project i have used google tensorflow
 2. Dataset was contained by Kaggle
 3. first data has been visualised and analysed
@@ -64,7 +77,7 @@ Python | AWS | NodeJS | Machine Learning Engineer | Backend Developer
 
 
 
-# [Heart Attack Classification using KNN, SVM, RFC, NBC ](https://github.com/abubakar123SVD/Heart-Attack-Prediction-Machine-Learning)
+# [Heart Attack Classification using KNN, SVM, RFC, NBC ](https://github.com/Abubakar-K-Back/Heart-Attack-Prediction-Machine-Learning)
 1. In this project i have used classification algorithms
 2. Dataset was contained by Kaggle
 3. First data has been visualized using seaborn and matplotlib
