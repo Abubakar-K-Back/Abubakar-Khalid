@@ -1,7 +1,7 @@
 # Abubakar Khalid
 Go | Python | NodeJS | AWS | GCP | Backend Developer
 
-# [Point Of Sales API V1](https://github.com/Abubakar-K-Back/Go-Point-Of-Sale-API.git)
+# [Point Of Sales API V1 Using Go](https://github.com/Abubakar-K-Back/Go-Point-Of-Sale-API.git)
 1. Backend is fully on Golang
 2. MySQL integrated
 3. GORM used as 
